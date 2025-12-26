@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "nRF24_jammer",
+			"path": "../../../../Repositories/nRF24_jammer"
+		}
+	],
+	"settings": {}
+}
