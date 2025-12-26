@@ -11,7 +11,7 @@
     - Copy content from reference, adjusting OLED setup to SPI.
 - [x] Task: Synchronize `jam.cpp` d7c7e08
     - Ensure logical parity with reference.
-- [ ] Task: Synchronize `options.cpp`
+- [x] Task: Synchronize `options.cpp` 17581dd
     - Ensure logical parity with reference.
 - [ ] Task: Synchronize Helper Files (`bitmap.cpp`, `html.cpp`, `serial.cpp`)
     - Ensure logical parity with reference.
