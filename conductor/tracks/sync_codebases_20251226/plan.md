@@ -9,7 +9,7 @@
 ## Phase 2: Implementation
 - [x] Task: Synchronize `nRF24_jammer.cpp` a11cb84
     - Copy content from reference, adjusting OLED setup to SPI.
-- [ ] Task: Synchronize `jam.cpp`
+- [x] Task: Synchronize `jam.cpp` d7c7e08
     - Ensure logical parity with reference.
 - [ ] Task: Synchronize `options.cpp`
     - Ensure logical parity with reference.
