@@ -15,7 +15,7 @@
     - Ensure logical parity with reference.
 - [x] Task: Synchronize Helper Files (`bitmap.cpp`, `html.cpp`, `serial.cpp`) c1db84a
     - Ensure logical parity with reference.
-- [ ] Task: Update Headers
+- [x] Task: Update Headers 133e886
     - Ensure `include/` headers match the requirements of the updated source files.
 - [ ] Task: Conductor - User Manual Verification 'Implementation' (Protocol in workflow.md)
 
