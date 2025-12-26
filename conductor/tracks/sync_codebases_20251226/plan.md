@@ -13,7 +13,7 @@
     - Ensure logical parity with reference.
 - [x] Task: Synchronize `options.cpp` 17581dd
     - Ensure logical parity with reference.
-- [ ] Task: Synchronize Helper Files (`bitmap.cpp`, `html.cpp`, `serial.cpp`)
+- [x] Task: Synchronize Helper Files (`bitmap.cpp`, `html.cpp`, `serial.cpp`) c1db84a
     - Ensure logical parity with reference.
 - [ ] Task: Update Headers
     - Ensure `include/` headers match the requirements of the updated source files.
